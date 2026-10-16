@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Mi servidor",
+            "address": "https://anisette-v3-server-twiq.onrender.com"
+        }
+    ]
+}
