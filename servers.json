@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "name": "StikStore (secondary)",
+            "address": "https://ani2.stikstore.app"
+        },
+        {
             "name": "Mi servidor",
             "address": "https://anisette-v3-server-twiq.onrender.com"
         }
